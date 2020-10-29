@@ -1,0 +1,12 @@
+{
+  "name": "ims",
+  "displayName": "ims",
+  "expo": {
+    "name": "ims",
+    "slug": "ims",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
